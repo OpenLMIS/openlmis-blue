@@ -1,3 +1,9 @@
+**Note** OpenLMIS-Blue, the code-name of the OpenLMIS v3 Reference Distribution has been phased out now that a 
+stable version of v3 has been released.
+
+Please continue along (and update your bookmarks) to the new home the 
+[Reference Distribution](https://github.com/OpenLMIS/openlmis-ref-distro).
+
 # openlmis-blue
 Temporary location for the OpenLMIS v3+ Reference Distribution
 
